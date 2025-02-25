@@ -1,7 +1,7 @@
 ﻿// #include "Menu.h"
 // #include <assert.h>
 //
-// namespace ApplesGame
+// namespace HedgehogGame
 // {
 // 	void InitMenuItem(MenuItem& item)
 // 	{
